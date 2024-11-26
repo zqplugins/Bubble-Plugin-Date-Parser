@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "0": "technical",
+        "1": "data (things)",
+        "2": "calendar",
+        "3": "productivity",
+        "4": "internationalization"
+    },
+    "data_tracked": false,
+    "demo_page": "https://zeroqode-demo-31.bubbleapps.io/date_parser",
+    "description": "This Date Parser no-code plugin operates on a simple principle: provide it with a relative date in text format (e.g., \"One week ago\"), and it will deliver the actual date to you.\n\n👛 Please support our efforts to keep this plugin free—your donations help us invest the time and resources needed to continue maintaining and improving it for everyone's benefit:  [color=#1AAFD0][url=https://zeroqo.de/support]https://zeroqo.de/support[/color][/url].\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/date-parser-plugin-for-bubble-1695234547817x231197108691845860 \n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1717102001040x743929991191099000/Date%20Parser%20.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Date Parser",
+    "plugin_instructions": "Use the action \"Convert Relative Time To Date\". Pass in any  text like \"One week ago\", \"Two days from now\", etc. and the action will return a date to you. ",
+    "sa_node_version": 18
+}

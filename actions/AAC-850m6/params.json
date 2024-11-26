@@ -1,0 +1,24 @@
+{
+    "category": "plugins",
+    "display": "Convert Relative Time To Date",
+    "fields": {
+        "AAD": {
+            "caption": "Relative Date String",
+            "doc": "Example: \"One week ago\", \"Two days from now\", etc.",
+            "editor": "DynamicValue",
+            "name": "relative_date_string",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "return_value": {
+        "AAE": {
+            "caption": "date",
+            "name": "date",
+            "rank": 0,
+            "value": "date"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}
